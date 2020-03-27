@@ -1,0 +1,11 @@
+body {
+    margin: 80px 0 0 180px;
+    padding-left: 20%;
+}
+
+button {
+    color: blue;
+    font-size: 30px;
+    font-style:bold;
+    border: 2px solid  red;
+}
