@@ -1,0 +1,10 @@
+body {
+    background-color:green;
+    padding: 10% 0 0  40%;
+}
+
+
+button {
+    font-size:25px;
+    border: 2px solid blue;
+}
